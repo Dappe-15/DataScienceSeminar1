@@ -393,7 +393,7 @@ transformer-based summarization for biomedical documents
 皆様にも共有しやすいようにJupyterで作製してみました。  
 今回出力したコードは特にデバッグが必要なさそうですね。  
 実行してみたところ、うまく作動しました!!!(出力内容の精度はアレかもですが、そういう方法なので仕方ない)  
-[こちら][https://colab.research.google.com/drive/18_m1OIQqYREFbAGPhrg9ccXFGfLfbeuQ?usp=sharing] に添付しました。
+[こちら](https://colab.research.google.com/drive/18_m1OIQqYREFbAGPhrg9ccXFGfLfbeuQ?usp=sharing) に添付しました。
 
 入力情報は"Senescent T cell"としてみました。  
 <img src="https://github.com/user-attachments/assets/bb299db6-f1e4-47fc-b3b6-be9181d15721">
